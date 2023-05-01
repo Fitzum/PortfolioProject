@@ -1,9 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2023-05-01T16:07:37.149Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="21.2.1" etag="HF9KKhenLvpvzivNhPaM" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-01T16:29:24.116Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="AfWfq2l1Gnks64_lpdRh" version="21.2.1" type="github">
   <diagram name="Page-1" id="jlVl903x1nGIdACKJlxr">
-    <mxGraphModel>
+    <mxGraphModel dx="659" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dJMjIW-Js8F18m7cWWNH-1" value="This will be the NAVBAR where the user will find the home, how to connect the Company.&lt;br&gt;That makes it easier to navigate the website better.&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="80" width="350" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dJMjIW-Js8F18m7cWWNH-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dJMjIW-Js8F18m7cWWNH-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dJMjIW-Js8F18m7cWWNH-2" value="This will be the headline that has the company name and some background image to make&amp;nbsp; it stand out." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="230" width="300" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dJMjIW-Js8F18m7cWWNH-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dJMjIW-Js8F18m7cWWNH-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="321" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dJMjIW-Js8F18m7cWWNH-3" value="Here you’ll find the first paragraph where it tells&amp;nbsp; you about what the Company dose and the Service that it gives.&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="156" y="350" width="330" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dJMjIW-Js8F18m7cWWNH-4" value="This one is the Second paragraph that explain more about company by giving some examples why there are different from the others promotion company." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="470" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dJMjIW-Js8F18m7cWWNH-5" value="Over here on the left side of the page at the bottom you’ll find where you can submit your email and name." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="590" width="154" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dJMjIW-Js8F18m7cWWNH-6" value="Over here on the right side of the page you’ll find the Company social media information." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="590" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dJMjIW-Js8F18m7cWWNH-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.079;exitY=1.033;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dJMjIW-Js8F18m7cWWNH-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="570" as="sourcePoint" />
+            <mxPoint x="186" y="580" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dJMjIW-Js8F18m7cWWNH-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="530" as="sourcePoint" />
+            <mxPoint x="450" y="580" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dJMjIW-Js8F18m7cWWNH-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.523;exitY=1.02;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dJMjIW-Js8F18m7cWWNH-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="340" as="sourcePoint" />
+            <mxPoint x="323" y="220" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
